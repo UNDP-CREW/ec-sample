@@ -9,5 +9,8 @@ Code sample
 
 `areas` - code for individual risk areas
 
-
 `crd_sample.R` - main script
+
+Libraries:
+
+- tidyverse, openxlsx, Rcpp, readxl, lubridate
