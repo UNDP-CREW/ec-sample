@@ -1,0 +1,26 @@
+CANTON_CODIGO;PROVINCIA_CODIGO;PROVINCIA_NOMBRE;CANTON_NOMBRE
+0000;00;Total Nacional;Total Nacional
+0101;01;Azuay;Cuenca
+0201;02;Bolívar;Guaranda
+0301;03;Cañar;Azogues
+0401;04;Carchi;Tulcán
+0501;05;Cotopaxi;Latacunga
+0601;06;Chimborazo;Riobamba
+0701;07;El Oro;Machala
+0801;08;Esmeraldas;Esmeraldas
+0901;09;Guayas;Guayaquil
+1001;10;Imbabura;Ibarra
+1101;11;Loja;Loja
+1201;12;Los Ríos;Babahoyo
+1301;13;Manabí;Portoviejo
+1401;14;Morona Santiago;Morona
+1501;15;Napo;Tena
+1601;16;Pastaza;Pastaza
+1701;17;Pichincha;Quito
+1801;18;Tungurahua;Ambato
+1901;19;Zamora Chinchipe;Zamora
+2001;20;Galápagos;San Cristóbal
+2101;21;Sucumbios;Lago Agrio
+2201;22;Orellana;Fco.De Orellana
+2301;23;Sto Dgo Tsáchilas;Santo Domingo
+2401;24;Santa Elena;Santa Elena
