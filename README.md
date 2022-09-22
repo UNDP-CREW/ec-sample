@@ -1,7 +1,7 @@
 # ec-sample
 Code sample
 
-`source data` - raw data from orginal sources
+`source data` - raw data from original sources
 
 `final data` - csv files for each indicator and xlsx dataset for each risk area
 
